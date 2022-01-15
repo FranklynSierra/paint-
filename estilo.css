@@ -1,0 +1,57 @@
+
+body,div{
+
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+
+    background:#ededed ;
+}
+
+
+canvas{
+
+  
+ border: 1px solid #000;   
+}
+
+.editor{
+margin: 30px;
+background: #fff;
+width:fit-content ;
+margin: auto;
+margin-top: 50px;
+}
+
+
+canvas:hover{
+
+    background:#6b2cf5 ;
+    transition: 2s;
+}
+
+.titulo{
+ text-align: center;
+    color:#4115A2 ;
+
+    background:#ededed
+}
+
+
+.titulo:hover{
+
+    color:#E82606;
+    background:#000 ;
+    transition: 2s;
+
+}
+
+#color{
+
+
+
+}
+
